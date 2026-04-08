@@ -7,13 +7,13 @@
 
 **Gravity Shift Protocol** is a third-person sci-fi puzzle platformer developed in Unity. The core mechanic revolves around **6-Directional Gravity Manipulation**, allowing players to walk on walls and ceilings to solve environmental puzzles.
 
-This project demonstrates **high-performance C# scripting**, utilizing advanced design patterns to ensure decoupled architecture and minimal Garbage Collection overhead.
+This project demonstrates **high-performance C# scripting**, utilising advanced design patterns to ensure decoupled architecture and minimal Garbage Collection overhead.
 
 ## 🎮 Gameplay Features
 
 * **Gravity Manipulation System**:
     * Walk on **any surface** (Floor, Walls, Ceiling).
-    * **Holographic Preview**: Visualize where gravity will shift before committing.
+    * **Holographic Preview**: Visualise where gravity will shift before committing.
     * **Head-Pivot Vaulting**: Unique movement mechanic where gravity shifts pivot around the character's head for fluid transitions.
 * **Third-Person Movement**: Camera-relative movement with smooth rotation and animation blending.
 * **Objectives**:
@@ -22,7 +22,7 @@ This project demonstrates **high-performance C# scripting**, utilizing advanced 
 * **Lose Conditions**:
     * Falling into the void (Raycast-based free fall detection).
     * Running out of time.
-* **In-Game Tutorial**: Interactive, state-machine based guide teaching movement mechanics.
+* **In-Game Tutorial**: Interactive, state-machine-based guide teaching movement mechanics.
 
 ## 🕹️ Controls
 
@@ -67,7 +67,7 @@ This project focuses on **Clean Code** principles and **Performance Optimization
 1.  **Download Build**: Go to the [Releases](../../releases) page and download the version for your OS (Windows/Mac).
 2.  **Run**: Extract the zip file and run `GravityShift.exe`.
 3.  **Unity Editor**:
-    * Clone this repo: `git clone https://github.com/YourUsername/Gravity-Shift-Protocol.git`
+    * Clone this repo: `git clone https://github.com/Sagniksynk/Gravity-Manipulation-Game.git`
     * Open in Unity Hub (Unity 6 or 2022.3 LTS).
     * Open `Assets/Scenes/GameLevel`.
     * Press Play.
@@ -76,4 +76,4 @@ This project focuses on **Clean Code** principles and **Performance Optimization
 This project is for educational purposes as part of a Unity Developer assessment.
 
 ---
-*Developed by [Your Name]*
+*Developed by Sagnik Dasgupta*
